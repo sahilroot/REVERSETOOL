@@ -1,0 +1,114 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    background-color: rgb(16, 135, 172);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 30px;
+    padding: 5px;
+   }
+
+   a.mt{
+    background-color: rgb(253, 112, 17);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    display:flex;
+    width: 300px;
+    padding: 10px;
+    margin: 30px auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+   
+   }
+
+   a.np{
+    background-color: rgb(22, 22, 21);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    display:flex;
+    width: 300px;
+    padding: 10px;
+    margin: 30px auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+   }
+
+
+    a.apk{
+    background-color: rgb(18, 157, 175);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    display:flex;
+    width: 300px;
+    padding: 10px;
+    margin: 30px auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    }
+
+    a.dev{
+
+        background-color: rgb(7, 165, 99);
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        text-decoration: none;
+        display:flex;
+        width: 300px;
+        padding: 10px;
+        margin: 30px auto;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+    }
+
+    a.ast{
+
+        background-color: rgb(21, 92, 42);
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        text-decoration: none;
+        display:flex;
+        width: 300px;
+        padding: 10px;
+        margin: 30px auto;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+
+    }
+
+    a.splt{
+
+        background-color: rgb(10, 143, 204);
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        text-decoration: none;
+        display:flex;
+        width: 300px;
+        padding: 10px;
+        margin: 30px auto;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+
+    }
